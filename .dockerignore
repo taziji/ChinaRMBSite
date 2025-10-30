@@ -1,0 +1,10 @@
+.git
+.github
+.vscode
+.DS_Store
+script
+Dockerfile
+docker-compose.yml
+README.md
+*.pyc
+__pycache__
