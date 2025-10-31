@@ -10,7 +10,7 @@ env:
   PROJECT_ID: ${{ vars.GCP_PROJECT_ID }}
   REGION: ${{ vars.GCP_REGION }}
   SERVICE_NAME: ${{ vars.CLOUD_RUN_SERVICE }}
-  REPOSITORY: cloud-run
+  REPOSITORY: chinarmbsite
   IMAGE_NAME: ${{ vars.IMAGE_NAME }}
 
 jobs:
