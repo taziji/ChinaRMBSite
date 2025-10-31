@@ -11,6 +11,7 @@ env:
   REGION: ${{ secrets.GCP_REGION }}
   SERVICE_NAME: ${{ secrets.CLOUD_RUN_SERVICE }}
   REPOSITORY: cloud-run
+  IMAGE_NAME: static-site
 
 jobs:
   deploy:
@@ -52,14 +53,12 @@ jobs:
 
       - name: Build and push container image
         run: |
-          IMAGE_NAME="$(echo "${{ env.SERVICE_NAME }}" | tr '[:upper:]' '[:lower:]' | tr -cs 'a-z0-9-' '-')"
-          IMAGE_NAME="${IMAGE_NAME%%-}"
-          IMAGE_NAME="${IMAGE_NAME##-}"
-          if [[ -z "${IMAGE_NAME}" ]]; then
-            echo "::error::Unable to derive a valid image name from service name '${{ env.SERVICE_NAME }}'."
+          if [[ -z "${{ env.IMAGE_NAME }}" ]]; then
+            echo "::error::IMAGE_NAME environment variable is required."
             exit 1
           fi
-          IMAGE_URI="${{ env.REGION }}-docker.pkg.dev/${{ env.PROJECT_ID }}/${{ env.REPOSITORY }}/${IMAGE_NAME}:${GITHUB_SHA}"
+          echo "Using Artifact Registry image name: ${{ env.IMAGE_NAME }}"
+          IMAGE_URI="${{ env.REGION }}-docker.pkg.dev/${{ env.PROJECT_ID }}/${{ env.REPOSITORY }}/${{ env.IMAGE_NAME }}:${GITHUB_SHA}"
           echo "IMAGE_URI=${IMAGE_URI}" >> $GITHUB_ENV
           gcloud builds submit --tag "${IMAGE_URI}" .
 
