@@ -7,11 +7,11 @@ on:
   workflow_dispatch:
 
 env:
-  PROJECT_ID: ${{ secrets.GCP_PROJECT_ID }}
-  REGION: ${{ secrets.GCP_REGION }}
-  SERVICE_NAME: ${{ secrets.CLOUD_RUN_SERVICE }}
+  PROJECT_ID: ${{ vars.GCP_PROJECT_ID }}
+  REGION: ${{ vars.GCP_REGION }}
+  SERVICE_NAME: ${{ vars.CLOUD_RUN_SERVICE }}
   REPOSITORY: cloud-run
-  IMAGE_NAME: static-site
+  IMAGE_NAME: ${{ vars.IMAGE_NAME }}
 
 jobs:
   deploy:
