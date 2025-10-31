@@ -33,12 +33,33 @@ jobs:
         with:
           project_id: ${{ env.PROJECT_ID }}
 
+      - name: Verify deployment environment variables
+        shell: bash
+        run: |
+          missing=0
+          for var in PROJECT_ID REGION SERVICE_NAME; do
+            if [[ -z "${!var}" ]]; then
+              echo "::error::Environment variable $var is required but not set. Check repository secrets."
+              missing=1
+            fi
+          done
+          if [[ "${missing}" -ne 0 ]]; then
+            exit 1
+          fi
+
       - name: Configure Artifact Registry authentication
         run: gcloud auth configure-docker "${{ env.REGION }}-docker.pkg.dev" --quiet
 
       - name: Build and push container image
         run: |
-          IMAGE_URI="${{ env.REGION }}-docker.pkg.dev/${{ env.PROJECT_ID }}/${{ env.REPOSITORY }}/${{ env.SERVICE_NAME }}:${GITHUB_SHA}"
+          IMAGE_NAME="$(echo "${{ env.SERVICE_NAME }}" | tr '[:upper:]' '[:lower:]' | tr -cs 'a-z0-9-' '-')"
+          IMAGE_NAME="${IMAGE_NAME%%-}"
+          IMAGE_NAME="${IMAGE_NAME##-}"
+          if [[ -z "${IMAGE_NAME}" ]]; then
+            echo "::error::Unable to derive a valid image name from service name '${{ env.SERVICE_NAME }}'."
+            exit 1
+          fi
+          IMAGE_URI="${{ env.REGION }}-docker.pkg.dev/${{ env.PROJECT_ID }}/${{ env.REPOSITORY }}/${IMAGE_NAME}:${GITHUB_SHA}"
           echo "IMAGE_URI=${IMAGE_URI}" >> $GITHUB_ENV
           gcloud builds submit --tag "${IMAGE_URI}" .
 
