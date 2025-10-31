@@ -69,4 +69,5 @@ jobs:
             --image "${IMAGE_URI}" \
             --region "${{ env.REGION }}" \
             --platform managed \
-            --allow-unauthenticated
+            --allow-unauthenticated \
+            --set-env-vars BASIC_AUTH_USER=${{ secrets.BASIC_AUTH_USER }},BASIC_AUTH_PASSWORD=${{ secrets.BASIC_AUTH_PASSWORD }}
