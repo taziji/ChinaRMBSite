@@ -1,0 +1,49 @@
+sectors/consumer-and-agriculture.html
+  line 436: src='/assets/s3/frontify-enterprise-files-eu/eyJwYXRoIjoiZmlyc3QtcmFuZC1ncm91cFwvZmlsZVwvUDR2d1BVV3ZYZ1Y2d2l2cmFCcGQuanBnIn0_first-rand-group_SfIWVgHCmo9D92iwQZa_GLtmqC4iQnxh3r6fZzFKNfE.webp' -> <img
+                            alt="RMB funds BCS Group’s shift to commercial capital with Social loan"
+                            src="/assets/s3/frontify-enterprise-files-eu/eyJwYXRoIjoiZmlyc3QtcmFuZC1ncm91cFwvZmlsZVwvUDR2d1BVV3ZYZ1Y2d2l2cmFCcGQuanBnIn0_first-rand-group_SfIWVgHCmo9D92iwQZa_GLtmqC4iQnxh3r6fZzFKNfE.webp" />
+sectors/healthcare-and-hospitality.html
+  line 474: src='/assets/s3/frontify-enterprise-files-eu/eyJwYXRoIjoiZmlyc3QtcmFuZC1ncm91cFwvZmlsZVwvUDR2d1BVV3ZYZ1Y2d2l2cmFCcGQuanBnIn0_first-rand-group_SfIWVgHCmo9D92iwQZa_GLtmqC4iQnxh3r6fZzFKNfE.webp' -> <img
+                            alt="RMB funds BCS Group’s shift to commercial capital with Social loan"
+                            src="/assets/s3/frontify-enterprise-files-eu/eyJwYXRoIjoiZmlyc3QtcmFuZC1ncm91cFwvZmlsZVwvUDR2d1BVV3ZYZ1Y2d2l2cmFCcGQuanBnIn0_first-rand-group_SfIWVgHCmo9D92iwQZa_GLtmqC4iQnxh3r6fZzFKNfE.webp" />
+sectors/sovereigns.html
+  line 440: src='/assets/s3/frontify-enterprise-files-eu/eyJwYXRoIjoiZmlyc3QtcmFuZC1ncm91cFwvZmlsZVwvUDR2d1BVV3ZYZ1Y2d2l2cmFCcGQuanBnIn0_first-rand-group_SfIWVgHCmo9D92iwQZa_GLtmqC4iQnxh3r6fZzFKNfE.webp' -> <img
+                            alt="RMB funds BCS Group’s shift to commercial capital with Social loan"
+                            src="/assets/s3/frontify-enterprise-files-eu/eyJwYXRoIjoiZmlyc3QtcmFuZC1ncm91cFwvZmlsZVwvUDR2d1BVV3ZYZ1Y2d2l2cmFCcGQuanBnIn0_first-rand-group_SfIWVgHCmo9D92iwQZa_GLtmqC4iQnxh3r6fZzFKNfE.webp" />
+  line 445: src='/assets/s3/frontify-enterprise-files-eu/eyJwYXRoIjoiZmlyc3QtcmFuZC1ncm91cFwvZmlsZVwvUDR2d1BVV3ZYZ1Y2d2l2cmFCcGQuanBnIn0_first-rand-group_SfIWVgHCmo9D92iwQZa_GLtmqC4iQnxh3r6fZzFKNfE.webp' -> <img src="/assets/s3/frontify-enterprise-files-eu/eyJwYXRoIjoiZmlyc3QtcmFuZC1ncm91cFwvZmlsZVwvUDR2d1BVV3ZYZ1Y2d2l2cmFCcGQuanBnIn0_first-rand-group_SfIWVgHCmo9D92iwQZa_GLtmqC4iQnxh3r6fZzFKNfE.webp" alt="Infrastructure Finance" style="width:187%!important;">
+solutions/corporate-finance-advisory.html
+  line 435: src='/assets/s3/frontify-enterprise-files-eu/eyJwYXRoIjoiZmlyc3QtcmFuZC1ncm91cFwvZmlsZVwvYzN5NXpZOXY5MkR5MTZreEd6WEguanBnIn0_first-rand-group_LgwCgvYGjsrhZIeYx3AcyYXWAdHYFkrnMjaX26lumkM.webp' -> <img alt="解决方案 - 企业融资咨询" class="progressive-image"
+							src="/assets/s3/frontify-enterprise-files-eu/eyJwYXRoIjoiZmlyc3QtcmFuZC1ncm91cFwvZmlsZVwvYzN5NXpZOXY5MkR5MTZreEd6WEguanBnIn0_first-rand-group_LgwCgvYGjsrhZIeYx3AcyYXWAdHYFkrnMjaX26lumkM.webp" />
+  line 437: src='/assets/s3/frontify-enterprise-files-eu/eyJwYXRoIjoiZmlyc3QtcmFuZC1ncm91cFwvZmlsZVwvYzN5NXpZOXY5MkR5MTZreEd6WEguanBnIn0_first-rand-group_LgwCgvYGjsrhZIeYx3AcyYXWAdHYFkrnMjaX26lumkM.webp' -> <img class="progressive-image-large loaded"
+							src="/assets/s3/frontify-enterprise-files-eu/eyJwYXRoIjoiZmlyc3QtcmFuZC1ncm91cFwvZmlsZVwvYzN5NXpZOXY5MkR5MTZreEd6WEguanBnIn0_first-rand-group_LgwCgvYGjsrhZIeYx3AcyYXWAdHYFkrnMjaX26lumkM.webp" />
+solutions/foreign-exchange.html
+  line 444: src='/assets/s3/frontify-enterprise-files-eu/eyJwYXRoIjoiZmlyc3QtcmFuZC1ncm91cFwvZmlsZVwvY0ZRaWNKOGhwTnZmaXRKU21yakIuanBnIn0_first-rand-group_eMg8OTKlgeyKVpXnPF0VdylfCvaADUAIE12P_0pPsiQ.webp' -> <img alt="外汇解决方案" class="progressive-image loaded"
+                                src="/assets/s3/frontify-enterprise-files-eu/eyJwYXRoIjoiZmlyc3QtcmFuZC1ncm91cFwvZmlsZVwvY0ZRaWNKOGhwTnZmaXRKU21yakIuanBnIn0_first-rand-group_eMg8OTKlgeyKVpXnPF0VdylfCvaADUAIE12P_0pPsiQ.webp" />
+  line 446: src='/assets/s3/frontify-enterprise-files-eu/eyJwYXRoIjoiZmlyc3QtcmFuZC1ncm91cFwvZmlsZVwvY0ZRaWNKOGhwTnZmaXRKU21yakIuanBnIn0_first-rand-group_eMg8OTKlgeyKVpXnPF0VdylfCvaADUAIE12P_0pPsiQ.webp' -> <img class="progressive-image-large loaded"
+                                src="/assets/s3/frontify-enterprise-files-eu/eyJwYXRoIjoiZmlyc3QtcmFuZC1ncm91cFwvZmlsZVwvY0ZRaWNKOGhwTnZmaXRKU21yakIuanBnIn0_first-rand-group_eMg8OTKlgeyKVpXnPF0VdylfCvaADUAIE12P_0pPsiQ.webp" />
+solutions/payment-solutions.html
+  line 445: src='/assets/s3/frontify-enterprise-files-eu/eyJwYXRoIjoiZmlyc3QtcmFuZC1ncm91cFwvZmlsZVwvTjdmVm1FVEVCcGt0VnJ1ZkgxWXouanBnIn0_first-rand-group_3_QbnZ5lYnzDWuo9maSBJilknyOnGCSGwTnas_XZeRA.webp' -> <img alt="解决方案 - 支付解决方案" class="progressive-image loaded"
+                                src="/assets/s3/frontify-enterprise-files-eu/eyJwYXRoIjoiZmlyc3QtcmFuZC1ncm91cFwvZmlsZVwvTjdmVm1FVEVCcGt0VnJ1ZkgxWXouanBnIn0_first-rand-group_3_QbnZ5lYnzDWuo9maSBJilknyOnGCSGwTnas_XZeRA.webp" />
+  line 447: src='/assets/s3/frontify-enterprise-files-eu/eyJwYXRoIjoiZmlyc3QtcmFuZC1ncm91cFwvZmlsZVwvTjdmVm1FVEVCcGt0VnJ1ZkgxWXouanBnIn0_first-rand-group_3_QbnZ5lYnzDWuo9maSBJilknyOnGCSGwTnas_XZeRA.webp' -> <img alt="解决方案 - 支付解决方案" class="progressive-image-large loaded"
+                                src="/assets/s3/frontify-enterprise-files-eu/eyJwYXRoIjoiZmlyc3QtcmFuZC1ncm91cFwvZmlsZVwvTjdmVm1FVEVCcGt0VnJ1ZkgxWXouanBnIn0_first-rand-group_3_QbnZ5lYnzDWuo9maSBJilknyOnGCSGwTnas_XZeRA.webp" />
+solutions/sustainable-finance.html
+  line 433: src='/assets/s3/frontify-enterprise-files-eu/eyJwYXRoIjoiZmlyc3QtcmFuZC1ncm91cFwvZmlsZVwvSmU2aVo5QUV5WlBtVmlaQ0xVMVQuanBnIn0_first-rand-group_Squ22SnIPcXhoafpZ8W8W2AJ0WtmbXTxygtrG1EoZEc.webp' -> <img alt="解决方案 - 可持续金融" class="progressive-image"
+							src="/assets/s3/frontify-enterprise-files-eu/eyJwYXRoIjoiZmlyc3QtcmFuZC1ncm91cFwvZmlsZVwvSmU2aVo5QUV5WlBtVmlaQ0xVMVQuanBnIn0_first-rand-group_Squ22SnIPcXhoafpZ8W8W2AJ0WtmbXTxygtrG1EoZEc.webp" />
+  line 435: src='/assets/s3/frontify-enterprise-files-eu/eyJwYXRoIjoiZmlyc3QtcmFuZC1ncm91cFwvZmlsZVwvSmU2aVo5QUV5WlBtVmlaQ0xVMVQuanBnIn0_first-rand-group_Squ22SnIPcXhoafpZ8W8W2AJ0WtmbXTxygtrG1EoZEc.webp' -> <img class="progressive-image-large"
+							src="/assets/s3/frontify-enterprise-files-eu/eyJwYXRoIjoiZmlyc3QtcmFuZC1ncm91cFwvZmlsZVwvSmU2aVo5QUV5WlBtVmlaQ0xVMVQuanBnIn0_first-rand-group_Squ22SnIPcXhoafpZ8W8W2AJ0WtmbXTxygtrG1EoZEc.webp" />
+solutions/trade-and-working-capital-solutions.html
+  line 623: src='/assets/s3/frontify-enterprise-files-eu/eyJwYXRoIjoiZmlyc3QtcmFuZC1ncm91cFwvZmlsZVwveEdjeVUzeVVZODRidWZCdGZaY2cuanBnIn0_first-rand-group_wbtIYiZ9-PvVDXXo9UyMWPV3G-UkFZBeXWV9bbyYDkM.webp' -> <img alt="Solutions - Trade and Working Capital Solutions"
+                                                                class="progressive-image loaded"
+                                                                src="/assets/s3/frontify-enterprise-files-eu/eyJwYXRoIjoiZmlyc3QtcmFuZC1ncm91cFwvZmlsZVwveEdjeVUzeVVZODRidWZCdGZaY2cuanBnIn0_first-rand-group_wbtIYiZ9-PvVDXXo9UyMWPV3G-UkFZBeXWV9bbyYDkM.webp" />
+  line 626: src='/assets/s3/frontify-enterprise-files-eu/eyJwYXRoIjoiZmlyc3QtcmFuZC1ncm91cFwvZmlsZVwveEdjeVUzeVVZODRidWZCdGZaY2cuanBnIn0_first-rand-group_wbtIYiZ9-PvVDXXo9UyMWPV3G-UkFZBeXWV9bbyYDkM.webp' -> <img class="progressive-image-large loaded"
+                                                                src="/assets/s3/frontify-enterprise-files-eu/eyJwYXRoIjoiZmlyc3QtcmFuZC1ncm91cFwvZmlsZVwveEdjeVUzeVVZODRidWZCdGZaY2cuanBnIn0_first-rand-group_wbtIYiZ9-PvVDXXo9UyMWPV3G-UkFZBeXWV9bbyYDkM.webp" />
+solutions/trade-finance.html
+  line 432: src='/assets/s3/frontify-enterprise-files-eu/eyJwYXRoIjoiZmlyc3QtcmFuZC1ncm91cFwvZmlsZVwvWXEzTTlrVUNDTUNQbUhCWFFZUWQuanBnIn0_first-rand-group_Q7zhl5dkG6pxRjFiHXfJindzjXGE3I3JTCVPAIiYIQM.webp' -> <img alt="解决方案 - 贸易融资" class="progressive-image"
+                            src="/assets/s3/frontify-enterprise-files-eu/eyJwYXRoIjoiZmlyc3QtcmFuZC1ncm91cFwvZmlsZVwvWXEzTTlrVUNDTUNQbUhCWFFZUWQuanBnIn0_first-rand-group_Q7zhl5dkG6pxRjFiHXfJindzjXGE3I3JTCVPAIiYIQM.webp" />
+  line 434: src='/assets/s3/frontify-enterprise-files-eu/eyJwYXRoIjoiZmlyc3QtcmFuZC1ncm91cFwvZmlsZVwvWXEzTTlrVUNDTUNQbUhCWFFZUWQuanBnIn0_first-rand-group_Q7zhl5dkG6pxRjFiHXfJindzjXGE3I3JTCVPAIiYIQM.webp' -> <img alt="解决方案 - 贸易融资" class="progressive-image"
+                            src="/assets/s3/frontify-enterprise-files-eu/eyJwYXRoIjoiZmlyc3QtcmFuZC1ncm91cFwvZmlsZVwvWXEzTTlrVUNDTUNQbUhCWFFZUWQuanBnIn0_first-rand-group_Q7zhl5dkG6pxRjFiHXfJindzjXGE3I3JTCVPAIiYIQM.webp" />
+transact.html
+  line 393: src='/assets/s3/frontify-enterprise-files-eu/eyJwYXRoIjoiZmlyc3QtcmFuZC1ncm91cFwvZmlsZVwvWGlOcUVCZFNLdFlvcnl5ZENVUHgucG5nIn0_first-rand-group_aWrKcwzCsU86WwXaxZ7WkPsH9LKaM2VsYEL2ENG_6zA.webp' -> <img alt="RMB管理团队" class="progressive-image loaded"
+              src="/assets/s3/frontify-enterprise-files-eu/eyJwYXRoIjoiZmlyc3QtcmFuZC1ncm91cFwvZmlsZVwvWGlOcUVCZFNLdFlvcnl5ZENVUHgucG5nIn0_first-rand-group_aWrKcwzCsU86WwXaxZ7WkPsH9LKaM2VsYEL2ENG_6zA.webp" />
+  line 395: src='/assets/s3/frontify-enterprise-files-eu/eyJwYXRoIjoiZmlyc3QtcmFuZC1ncm91cFwvZmlsZVwvWGlOcUVCZFNLdFlvcnl5ZENVUHgucG5nIn0_first-rand-group_aWrKcwzCsU86WwXaxZ7WkPsH9LKaM2VsYEL2ENG_6zA.webp' -> <img class="progressive-image-large loaded"
+              src="/assets/s3/frontify-enterprise-files-eu/eyJwYXRoIjoiZmlyc3QtcmFuZC1ncm91cFwvZmlsZVwvWGlOcUVCZFNLdFlvcnl5ZENVUHgucG5nIn0_first-rand-group_aWrKcwzCsU86WwXaxZ7WkPsH9LKaM2VsYEL2ENG_6zA.webp" />
